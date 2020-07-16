@@ -1,0 +1,96 @@
+.head3 li   {
+			color: rgb(74,35,90);
+			font-size: 25px;
+			margin: 10px;
+			padding: 5px;
+		}
+		
+		.head2 {
+			color: red;
+			margin: 10px;
+			padding: 5px;
+		}
+		.head1 {
+			color: teal;
+			font-size: 40px;
+			margin: 10px;
+			padding: 5px;
+			font-weight: bolder;
+		}
+		
+
+		.grid {
+			padding: 5px;
+			font-size: 25px;
+			display: grid;
+			
+			background-color: blue;
+			grid-template-columns: auto auto auto auto;
+		}
+		.grid-item {
+			background-color: white;
+			font-weight: bold;
+			font-size: 25px;
+			text-align: center;
+			padding: 10px;
+			margin: 10px;
+		}
+
+		
+
+		.old {
+			display: flex;
+			flex-wrap: wrap;
+		}
+
+		.old > div {
+			padding: 20px;
+			margin: 20px;
+			font-size: 20px;
+			background-color: springgreen;
+			width: 1440px;
+		}
+		
+		.centered1 {
+			font-size: 70px;
+			color:  rgb(1500,0,0);
+			font-weight: bolder;
+			position: absolute;
+  			top: 50%;
+  			left: 50%;
+  			transform: translate(-50%, -50%);
+  			font-family: palatino linotype;
+
+  		}
+  		.centered {
+  			font-size: 72px;
+			color:  rgb(1500,0,0);
+			font-weight: bolder;
+			position: absolute;
+  			top: 40%;
+  			left: 50%;
+  			transform: translate(-50%, -50%);
+  			font-family: palatino linotype;
+  		}
+  		.but {
+  			text-align: center;
+
+  		}
+
+  		button:hover {
+  			background-color: purple;
+  		}
+
+
+  		.button {
+  			border: none;
+  			color: black;
+  			padding: 15px 32px;
+  			text-align: center;
+  			text-decoration: none;
+  			display: inline-block;
+  			font-size: 25px;
+  			margin: 4px 2px;
+  			cursor: pointer;
+  			
+  		}

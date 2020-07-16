@@ -1,0 +1,28 @@
+.p6 li::selection {
+
+	color: yellow;
+	background-color: red;
+
+}
+
+.p8 li::selection {
+	color: green;
+	background-color: lightgreen;
+}
+
+.p5 li::selection {
+
+	color: skyblue;
+	background-color: red;
+}
+
+.p7 li::selection {
+
+	color: red;
+	background-color: skyblue;
+}
+.p9 li::selection {
+
+	color: yellow;
+	background-color: red;
+}

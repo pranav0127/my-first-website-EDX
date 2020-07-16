@@ -1,0 +1,30 @@
+%message {
+	font-size: 17px;
+	margin: 20px;
+	padding: 15px;
+}
+
+.p4, .p5, .p6, .p7, .p8, .p9, .p10, .p11, .p12, .p13, .p14 {
+	@extend %message;
+	background-color: lightgrey; 
+
+}
+
+
+.p1 {
+	@extend %message;
+	color:black;
+	font-weight: bold;
+}
+.p2 {
+	@extend %message;		
+	color: rgb(27,38,49);
+	font-weight: bold;
+}
+.p3 {
+	@extend %message;
+	font-weight: bold;
+	color: black;
+}
+
+

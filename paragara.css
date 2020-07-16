@@ -1,0 +1,21 @@
+.p4, .p5, .p6, .p7, .p8, .p9, .p10, .p11, .p12, .p13, .p14, .p1, .p2, .p3 {
+  font-size: 17px;
+  margin: 20px;
+  padding: 15px; }
+
+.p4, .p5, .p6, .p7, .p8, .p9, .p10, .p11, .p12, .p13, .p14 {
+  background-color: lightgrey; }
+
+.p1 {
+  color: black;
+  font-weight: bold; }
+
+.p2 {
+  color: #1b2631;
+  font-weight: bold; }
+
+.p3 {
+  font-weight: bold;
+  color: black; }
+
+/*# sourceMappingURL=paragara.css.map */

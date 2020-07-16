@@ -1,0 +1,41 @@
+p {
+	font-size: 20px;
+	color: rgb(155,89,182);
+	margin: 12px;
+	padding: 15px;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding-bottom: 5px;
+
+}
+
+
+ol li {
+	font-size: 20px;
+	color: darkgreen;
+	font-style: 
+
+
+}
+		.state1, .state2 li {
+			font-weight: bolder;
+			font-size: 25px;
+			color: rgb(52,73,94);
+		}
+
+		.state2 div {
+			font-size: 20px;
+			color: rgb(17,122,101);
+
+		}
+		img {
+			margin-left: 100px;
+			padding: 10px; 
+		}
+		.state3 {
+			font-size: 30px;
+			font-weight: bolder;
+			color: rgb(100,30,22);
+			margin-left: 25px;
+			padding-bottom: 10px;
+		}
